@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <TextBlock>Hello</TextBlock>
+        <TextBlock>GoodBye</TextBlock>
         
     </Grid>
 </Window>
