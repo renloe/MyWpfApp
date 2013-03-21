@@ -5,6 +5,7 @@
     <Grid>
         <TextBlock>Hello</TextBlock>
         <TextBlock>GoodBye</TextBlock>
+        <TextBlock>See Ya</TextBlock>
         
     </Grid>
 </Window>
